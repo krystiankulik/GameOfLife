@@ -30,7 +30,7 @@ namespace GameOfLife
         private DispatcherTimer timer = new DispatcherTimer();
         private float interval = 0.7F;
         private const string defaultText = "Name of your pattern";
-        private const string patternsPath = @"patterns.txt";
+        private const string patternsPath = @"Data\patterns.txt";
         private List<string> patterns = new List<string>();
         private const int primaryPatternsSize = 8;
 
@@ -196,7 +196,7 @@ namespace GameOfLife
 
         private void saveButton_Click(object sender, RoutedEventArgs e)
         {
-            string fileName = textBox.Text + ".txt";
+            string fileName = System.IO.Path.Combine("Data", textBox.Text + ".txt") ;
             if (textBox.Text == defaultText)
             {
                 MessageBox.Show("Choose a name for your pattern.");
@@ -295,7 +295,7 @@ namespace GameOfLife
 
             ResetTimer();
             Reset();
-            string fileName = comboBox.Text + ".txt";
+            string fileName = System.IO.Path.Combine("Data", comboBox.Text + ".txt");
 
             try
             {
@@ -368,7 +368,8 @@ namespace GameOfLife
                     writer.Close();
                 }
 
-                string path = name + ".txt";
+                
+                string path = System.IO.Path.Combine("Data", name + ".txt");
                 File.Delete(path);
 
                 UpdatePatterns();
