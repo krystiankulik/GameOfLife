@@ -1,0 +1,13 @@
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\GameOfLife\GameOfLife\bin\Release\GameOfLife.exe.config
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\GameOfLife\GameOfLife\bin\Release\GameOfLife.exe
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\GameOfLife\GameOfLife\bin\Release\GameOfLife.pdb
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\GameOfLife\GameOfLife\obj\Release\MainWindow.g.cs
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\GameOfLife\GameOfLife\obj\Release\App.g.cs
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife_MarkupCompile.cache
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife_MarkupCompile.lref
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\GameOfLife\GameOfLife\obj\Release\MainWindow.baml
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.g.resources
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.Properties.Resources.resources
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.csproj.GenerateResource.Cache
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.exe
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\GameOfLife\GameOfLife\obj\Release\GameOfLife.pdb
