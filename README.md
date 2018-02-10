@@ -11,7 +11,6 @@ The Game of Life, also known simply as Life, is a cellular automaton devised by 
     4.Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
     
 Effects of the simulation can be really interesting and the simple rules make it even more fascinating.
-Here I found a short video with example simulations:
-https://www.youtube.com/watch?v=-FaqC4h5Ftg&t=30s
 
+Here is my application during a sumulation:
 <img src="https://media.giphy.com/media/xUOwG3VFyLmieZ4Xvy/giphy.gif" title="GameOfLifeGif"/></a>
