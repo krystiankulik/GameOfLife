@@ -12,5 +12,5 @@ The Game of Life, also known simply as Life, is a cellular automaton devised by 
     
 Effects of the simulation can be really interesting and the simple rules make it even more fascinating.
 
-Here is my application during a sumulation:
+Here is how my application works during a sumulation:
 <img src="https://media.giphy.com/media/xUOwG3VFyLmieZ4Xvy/giphy.gif" title="GameOfLifeGif"/></a>
